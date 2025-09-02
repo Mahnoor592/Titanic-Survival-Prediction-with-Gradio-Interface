@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-with-Gradio-Interface
+## Titanic-Survival-Prediction-with-Gradio-Interface
 
   This project predicts passenger survival on the Titanic dataset using Machine   Learning models.  
 It was implemented in Google Colab and deployed with a simple Gradio interface for user interaction.
